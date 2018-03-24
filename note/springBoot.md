@@ -1,1 +1,1 @@
-# 一.介绍> springBoot 框架，是Spring 全家桶里的新兴微框架，将是你能够更加快速的构建一个Spring项目，这点可以根据名称中的"boot"看出来。## 二.springBoot 快速搭建> springboot 项目快速搭建，有多种方式：直接maven构建、官网生成项目、ide创建项目，下面将一一进行说明### 2.1 maven 直接构建一个springboot 项目#### 2.1.1 首先构建一个maven 项目
+# 一.介绍> springBoot 框架，是Spring 全家桶里的新兴微框架，将是你能够更加快速的构建一个Spring项目，这点可以根据名称中的"boot"看出来。## 二.springBoot 快速搭建> springboot 项目快速搭建，有多种方式：直接maven构建、官网生成项目、ide创建项目，下面将一一进行说明### 2.1 maven 直接构建一个springboot 项目#### 2.1.1 首先构建一个maven 项目```mvn ....```
